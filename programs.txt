@@ -1,0 +1,29 @@
+List of programs I need.
+
+Java
+Minecraft
+Labymod
+Steam
+MPV
+Nano
+Cinnamon DE
+Xorg
+Onionshare
+Tor
+Veracrypt
+Conky
+Betterdiscord
+Discord
+Pidgin (IRC)
+DeSmuME (Nintendo DS emulator)
+Htop
+Audacity
+LibreOffice Suite
+qBittorent (torrenting)
+GIMP
+OBS
+Mumble
+Firefox
+Nemo (GUI file manager)
+Bash shell (zsh is shit)
+Kitty (terminal emulator)
