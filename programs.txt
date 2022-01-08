@@ -28,3 +28,4 @@ Nemo (GUI file manager)
 Bash shell (zsh is shit)
 Kitty (terminal emulator)
 Nvidia drivers
+Fetchmaster6000
